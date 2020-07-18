@@ -1,6 +1,0 @@
-print("Hello and welcome to my GitHub repository.")
-print("This repository is set of Python codes.")
-print("This is a collection of the codes I wrote for an online course.")
-print("I wrote them on Atom.io and pushed them through there only :D")
-print("I have edited them to be used in a more general and specific way.")
-print("Thanks for stopping by!")
